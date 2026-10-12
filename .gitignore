@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+downloads/
+.botsession.session
+.botsession.session-journal
+*.session
+*.session-journal
+*.mp4
+*.part
+*.ytdl
+.env
